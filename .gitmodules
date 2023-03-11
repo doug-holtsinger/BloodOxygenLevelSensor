@@ -1,0 +1,3 @@
+[submodule "WirelessSensor"]
+	path = WirelessSensor
+	url = git@github.com:doug-holtsinger/WirelessSensor.git
